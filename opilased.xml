@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<opilased>
+    <opilane>
+        <nimi>Juku</nimi>
+        <isikukood>0000001</isikukood>
+        <eriala>Tarkvara arendaja</eriala>
+        <elukoht>
+            <linn>Tallinn</linn>
+            <maakond>Harjumaa</maakond>
+        </elukoht>
+    </opilane>
+
+    <opilane>
+        <nimi>Henry</nimi>
+        <isikukood>0000002</isikukood>
+        <eriala>Keskkooli õpilane</eriala>
+        <elukoht>
+            <linn>Pärnu</linn>
+            <maakond>Pärnumaa</maakond>
+        </elukoht>
+    </opilane>
+
+    <opilane>
+        <nimi>Toomas</nimi>
+        <isikukood>0000003</isikukood>
+        <eriala>Klienditeenindaja</eriala>
+        <elukoht>
+            <linn>Kohila</linn>
+            <maakond>Raplamaa</maakond>
+        </elukoht>
+    </opilane>
+
+    <opilane>
+        <nimi>Kasper</nimi>
+        <isikukood>0000004</isikukood>
+        <eriala>Treener</eriala>
+        <elukoht>
+            <linn>Haapsalu</linn>
+            <maakond>Läänemaa</maakond>
+        </elukoht>
+    </opilane>
+
+    <opilane>
+        <nimi>Keiti</nimi>
+        <isikukood>0000005</isikukood>
+        <eriala>Koristaja</eriala>
+        <elukoht>
+            <linn>Narva</linn>
+            <maakond>Ida-Virumaa</maakond>
+        </elukoht>
+    </opilane>
+
+
+
+
+</opilased>
