@@ -13,3 +13,23 @@ echo "1.õpilase nimi: ".$opilased->opilane[0]->nimi;
 
 ?>
 </html>
+<table>
+    <tr>
+        <th>Õpilase nimi</th>
+        <th>Isikukood</th>
+        <th>Eriala</th>
+        <th>Elukoht</th>
+    </tr>
+    <?php
+    foreach ($opilased->opilane as $opilane)
+    {
+        echo "<tr>";
+        echo "<td>".$opilane->nimi."</td>";
+        echo "<td>".$opilane->isikukood."</td>";
+        echo "<td>".$opilane->eriala."</td>";
+        echo "<td>".$opilane->elukoht->linn."
+        ,".$opilane->elukoht->maakond."</td>";
+    }
+
+    ?>
+</table>
