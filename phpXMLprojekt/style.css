@@ -1,0 +1,27 @@
+table
+{
+    background-color: #66a18b;
+
+}
+td,th,h1,form
+{
+    color:white;
+    font-family: sans-serif;
+}
+body
+{
+    background-color: #588373;
+    border-radius: 50px;
+}
+tr
+{
+    background-color: #87ca9f;
+}
+h1
+{
+    background-color: #407052;
+}
+th
+{
+    background-color: #61836e;
+}
